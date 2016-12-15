@@ -1,5 +1,6 @@
 # react-native-product-page
 Pure javascript product page UI prototype for React Native framework. Inspired from www.dribbble.com.
+This was a very quick project, so it may not suit all screen sizes--it needs some refactoring to do.
 
 ###Inspiration
 ![alt tag](https://raw.githubusercontent.com/ggomaeng/react-native-product-page/master/inspiration.gif)
