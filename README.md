@@ -12,7 +12,7 @@ https://dribbble.com/devyanibhati
 
 ## Try it out
 
-Try it with Exponent: https://getexponent.com/@sungwoopark95/product-page
+Try it with Exponent: https://getexponent.com/@sungwoopark95/react-native-product-page
 
 ## Run it locally
 

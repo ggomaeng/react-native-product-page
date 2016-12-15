@@ -1,7 +1,7 @@
 {
   "name": "react-native-product-page",
   "description": "Pure javascript product page UI prototype for React Native framework.",
-  "slug": "product-page",
+  "slug": "react-native-product-page",
   "sdkVersion": "12.0.0",
   "version": "1.0.0",
   "orientation": "portrait",
